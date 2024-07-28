@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atharv-dhingra610
 - 👀 I’m interested in learning how to code.....I know some basic coding and I am here to learn more
-- 🌱 I’m currently lin College
+- 🌱 I’m currently in College
 - 💞️ I’m looking to collaborate on any projects I can manage to make with you
 - 📫 How to reach me... atharvdhingra@gmail.com
 
