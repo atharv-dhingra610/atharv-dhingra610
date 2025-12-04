@@ -62,8 +62,8 @@
 # <p align="center">💬 Developer Quote</p>
 
 <p align="center">
-  <i>"Don't comment bad code — rewrite it."</i><br>
-  — Brian Kernighan
+  <i>"Don't comment bad code - rewrite it."</i><br>
+  ~ Brian Kernighan
 </p>
 
 ---
