@@ -55,9 +55,6 @@
   <!-- VS Code -->
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-  <!-- Linux -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
 </p>
 
 ---
