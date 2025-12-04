@@ -52,13 +52,6 @@
 
 ---
 
-# 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atharv-dhingra610&theme=tokyonight&no-frame=true&row=1&margin-w=20" />
-</p>
-
----
-
 # 🐍 Contribution Snake  
 <p align="center">
   <img src="https://raw.githubusercontent.com/atharv-dhingra610/atharv-dhingra610/output/snake.svg" />
