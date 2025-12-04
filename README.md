@@ -17,14 +17,16 @@
 
 ### **AI & Machine Learning**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
 </p>
 
 ---
 
 ### **Data Science & Utilities**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,jupyter" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 ---
@@ -39,20 +41,12 @@
 # <p align="center">📊 GitHub Stats</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=atharv-dhingra610&theme=highcontrast&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharv-dhingra610&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharv-dhingra610&show_icons=true&theme=highcontrast&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharv-dhingra610&layout=compact&theme=highcontrast&hide_border=true" height="150" />
-</p>
-
----
-
-# <p align="center">🏆 GitHub Profile Trophy</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atharv-dhingra610&theme=onestar&no-frame=true&row=1&margin-w=20" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=atharv-dhingra610&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharv-dhingra610&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
