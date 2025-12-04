@@ -14,10 +14,9 @@
 
 ## 🚀 About Me  
 - 🤖 Passionate **AI/ML Developer**  
-- 🧠 Love building: **Deep Learning, NLP, CV projects**  
-- 🎯 Aim: Create scalable, efficient AI systems  
-- 🌱 Currently exploring: **Transformers, LLMs, AI Agents**  
-- 📫 Contact: **atharvdhingra610@gmail.com**
+- 🧠 Love building: **Deep Learning, NLP, LLMs, AI Agents, CV projects**  
+- 🎯 Aim: Create scalable, efficient AI systems   
+- 📫 Contact: **atharvdhingra@gmail.com**
 
 ---
 
@@ -33,7 +32,6 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-  <!-- ADDED -->
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
 
@@ -48,4 +46,42 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atha
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atharv-dhingra610&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharv-dhingra610&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=atharv-dhingra610&theme=tokyonight&no-frame=true&row=1&margin-w=20" />
+</p>
+
+---
+
+# 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/atharv-dhingra610/atharv-dhingra610/output/snake.svg" />
+</p>
+
+---
+
+# 🔗 Connect With Me  
+<p align="center">
+  <a href="https://linkedin.com/in/atharv-dhingra">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+  </a>
+
+  <a href="mailto:atharvdhingra@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+  </a>
+
+  <!-- DISCORD -->
+  <a href="https://discord.com/users/879255117495423036">
+    <img src="https://skillicons.dev/icons?i=discord" width="50"/>
+  </a>
+</p>
+
+---
+
+<p align="center">✨ Thanks for visiting my profile! ✨</p>
