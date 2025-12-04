@@ -6,9 +6,9 @@
 
 ---
 
-### 💬 Developer Quote  
-> **"Don't comment bad code - rewrite it."**  
-> ~ *Brian Kernighan*
+## 💬 Developer Quote  
+> **"Don't comment bad code — rewrite it."**  
+> — *Brian Kernighan*
 
 ---
 
@@ -80,7 +80,7 @@
 
 # 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/atharv-dhingra610/atharv-dhingra610/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/atharv-dhingra610/atharv-dhingra610/output/snake.svg" />
 </p>
 
 ---
