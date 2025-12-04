@@ -7,8 +7,8 @@
 ---
 
 ### 💬 Developer Quote  
-> **"Don't comment bad code — rewrite it."**  
-> — *Brian Kernighan*
+> **"Don't comment bad code - rewrite it."**  
+> ~ *Brian Kernighan*
 
 ---
 
