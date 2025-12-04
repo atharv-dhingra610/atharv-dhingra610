@@ -13,48 +13,43 @@
 
 ---
 
-# <p align="center">👨‍💻 Tech Stack</p>
+## 🖥️ Tech Stack
 
-### **AI & Machine Learning**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,numpy,pandas,jupyter,git,github,vscode" />
 </p>
 
 ---
 
-### **Data Science & Utilities**
+## 📊 GitHub Stats & Activity
+
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <!-- Contribution Streak / Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharv-dhingra610&theme=tokyonight&hide_border=true" alt="streak-stats" />
+</p>
+
+<p align="center">
+  <!-- Overall GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=atharv-dhingra610&show_icons=true&theme=tokyonight&hide_border=true" alt="github-stats" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharv-dhingra610&layout=compact&theme=tokyonight&hide_border=true" alt="top-langs" />
 </p>
 
 ---
 
-### **Tools & Dev Environment**
+## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=anaconda,git,github,vscode" />
+  <img src="https://raw.githubusercontent.com/atharv-dhingra610/atharv-dhingra610/output/snake.svg" alt="contribution-snake" />
 </p>
 
 ---
 
-# <p align="center">📊 GitHub Stats</p>
+## 💬 Developer Quote  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharv-dhingra610&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=atharv-dhingra610&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharv-dhingra610&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# <p align="center">🐍 Contribution Snake</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/atharv-dhingra610/atharv-dhingra610/output/snake.svg" />
+  <i>"Don't comment bad code — rewrite it."</i><br>  
+  — Brian Kernighan  
 </p>
 
 ---
