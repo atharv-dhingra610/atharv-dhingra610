@@ -1,7 +1,10 @@
 # 💫 About Me:
 👦🏻 Hi, I am Atharv Dhingra.<br>🤖 Passionate: AI/ML Developer<br>🧠 Love building: Deep Learning, NLP, LLMs, AI, Agents, CV projects <br>🎯 Aim: Create scalable, efficient AI systems  
 
-
+<p align="left"> <img
+        src="https://komarev.com/ghpvc/?username=hamza-aouni&label=Profile%20views&color=658354&style=for-the-badge"
+        alt="hamza-aouni" width="200"/> </p>
+        
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atharv-dhingra-2097572a2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharvdhingra@gmail.com) 
 
